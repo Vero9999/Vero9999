@@ -1,6 +1,14 @@
 ## Hi there 👋
-💬 about me 
-www.linkedin.com/in/messal-veronica-2170316a
+
+💬 about me : Hi, I’m someone who works around systems, data, and figuring out how things can run better. Currently exploring data analytics, ERP systems, and digital transformation.
+
+# Stuff I Work With: 
+Data Analysis (Excel, basic SQL)
+ERP Systems (Odoo)
+Business Process & System Flow (BPMN)
+Basic understanding of databases & system integration
+
+🛜 social : www.linkedin.com/in/messal-veronica-2170316a
 
 ## My GitHub Stats
 
