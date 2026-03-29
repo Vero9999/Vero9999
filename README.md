@@ -4,7 +4,6 @@ www.linkedin.com/in/messal-veronica-2170316a
 
 ## My GitHub Stats
 
-<p align="center">
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Vero9999&show_icons=true&theme=tokyonight" />
 </p>
 
