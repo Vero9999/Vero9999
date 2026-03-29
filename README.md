@@ -4,12 +4,10 @@ www.linkedin.com/in/messal-veronica-2170316a
 
 ## My GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/apiVero9999=Vero9999&show_icons=true&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com/?Vero9999=Vero9999)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?Vero9999=Vero9999&show_icons=true)
 
 
-
+![GitHub Streak](https://streak-stats.demolab.com/?user=Vero9999)
 
 <!--
 
