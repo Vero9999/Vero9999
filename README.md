@@ -2,13 +2,16 @@
 💬 about me 
 www.linkedin.com/in/messal-veronica-2170316a
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?Vero9999=Vero9999  &show_icons=true)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Vero9999)
 
 
 
 <!--
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?Vero9999=Vero9999&show_icons=true&theme=tokyonight" />
+</p>
+
+
 **Vero9999/Vero9999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
