@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-###💬 about me : 
+### Intro 
 Hi, I’m someone who works around systems, data, and figuring out how things can run better. Currently exploring data analytics, ERP systems, and digital transformation.
 
 🛜 social : www.linkedin.com/in/messal-veronica-2170316a
