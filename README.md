@@ -3,10 +3,9 @@
 💬 about me : Hi, I’m someone who works around systems, data, and figuring out how things can run better. Currently exploring data analytics, ERP systems, and digital transformation.
 
 ### Stuff I Work With: 
-Data Analysis (Excel, basic SQL)
-ERP Systems (Odoo)
-Business Process & System Flow (BPMN)
-Basic understanding of databases & system integration
+📊 Data: Excel, SQL  
+⚙️ Systems: Odoo  
+🔄 Process: BPMN, Flow Design  
 
 🛜 social : www.linkedin.com/in/messal-veronica-2170316a
 
