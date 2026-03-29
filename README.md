@@ -1,15 +1,16 @@
 ## Hi there 👋
 
-💬 about me : Hi, I’m someone who works around systems, data, and figuring out how things can run better. Currently exploring data analytics, ERP systems, and digital transformation.
+###💬 about me : 
+Hi, I’m someone who works around systems, data, and figuring out how things can run better. Currently exploring data analytics, ERP systems, and digital transformation.
+🛜 social : www.linkedin.com/in/messal-veronica-2170316a
+
+👻 fun fact: have a soft spot for cats and dogs.. sometimes a bit too much.
 
 ### Stuff I Work With: 
 📊 Data: Excel, SQL  
 ⚙️ Systems: Odoo  
 🔄 Process: BPMN, Flow Design  
 
-🛜 social : www.linkedin.com/in/messal-veronica-2170316a
-
-👻 fun fact: have a soft spot for cats and dogs.. sometimes a bit too much.
 
 <!--
 
