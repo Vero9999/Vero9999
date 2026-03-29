@@ -10,7 +10,7 @@ Basic understanding of databases & system integration
 
 🛜 social : www.linkedin.com/in/messal-veronica-2170316a
 
-👻 fun fact: have a soft spot for cats and dogs — sometimes a bit too much.
+👻 fun fact: have a soft spot for cats and dogs.. sometimes a bit too much.
 
 <!--
 
