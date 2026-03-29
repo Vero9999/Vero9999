@@ -10,15 +10,16 @@ Basic understanding of databases & system integration
 
 🛜 social : www.linkedin.com/in/messal-veronica-2170316a
 
+👻 fun fact: have a soft spot for cats and dogs — sometimes a bit too much.
+
+<!--
+
 ## My GitHub Stats
 
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Vero9999&show_icons=true&theme=tokyonight" />
 </p>
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Vero9999)
-
-<!--
-
 
 
 **Vero9999/Vero9999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
