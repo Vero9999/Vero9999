@@ -8,7 +8,7 @@ www.linkedin.com/in/messal-veronica-2170316a
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Vero9999&show_icons=true&theme=tokyonight" />
 </p>
 
-
+<p align="center">
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Vero9999)
 
 <!--
